@@ -25,3 +25,30 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+#Customs
+pubspec.lock
+.vscode/settings.json
+assets/secret.json
+coverage/
+ios/Podfile.lock
+third_party_libraries/
+.fvm/
+keystore/upload-keystore.jks
+keystore/
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
